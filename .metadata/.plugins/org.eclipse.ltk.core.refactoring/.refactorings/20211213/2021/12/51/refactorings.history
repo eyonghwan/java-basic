@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;garbagecollection.Main&apos; to &apos;Main201P&apos;&#x0D;&#x0A;- Original project: &apos;20211213&apos;&#x0D;&#x0A;- Original element: &apos;garbagecollection.Main&apos;&#x0D;&#x0A;- Renamed element: &apos;garbagecollection.Main201P&apos;&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Main&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;garbagecollection{Main.java[Main" matchStrategy="1" name="Main201P" qualified="false" references="false" similarDeclarations="false" stamp="1639356179068" textual="false" version="1.0"/>
+</session>

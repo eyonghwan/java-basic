@@ -1,0 +1,13 @@
+package game.inheritance;
+
+public class Warrior extends Commoner{
+	private int pDam;
+	
+	public Warrior(String name) {
+		super(name);
+		this.pDam = 5;
+	}
+	
+	
+
+}

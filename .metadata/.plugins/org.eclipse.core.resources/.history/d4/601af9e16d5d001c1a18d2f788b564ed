@@ -1,0 +1,10 @@
+package game.accessmodifier;
+
+public class Magicain extends Commoner {
+	
+	public void hunt() {
+		System.out.println("마법사가 사냥을 시작합니다.");
+		sethp();
+	}
+
+}

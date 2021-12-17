@@ -1,0 +1,15 @@
+
+public class Seller {
+	private int money;
+	private int banana;
+	private int apple;
+	
+	public Seller(int banana, int apple) {
+		money = 0;
+		this.banana = banana;
+		this.apple = apple;
+	}
+	
+	public sell
+
+}

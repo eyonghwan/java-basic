@@ -1,0 +1,6 @@
+package game.inheritance;
+
+public class Warrior {
+	private int pDam;
+
+}
