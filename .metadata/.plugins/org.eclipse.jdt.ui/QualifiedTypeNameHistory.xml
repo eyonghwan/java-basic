@@ -4,4 +4,5 @@
     <fullyQualifiedTypeName name="accessmodifier.Warrior"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="static1.StaticTest"/>
 </qualifiedTypeNameHistroy>
