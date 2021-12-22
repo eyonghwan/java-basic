@@ -1,9 +1,0 @@
-package game.inheritance;
-
-public class Commoner {
-	private int lv;
-	private int hp;
-	private int mp;
-	private String name;
-
-}

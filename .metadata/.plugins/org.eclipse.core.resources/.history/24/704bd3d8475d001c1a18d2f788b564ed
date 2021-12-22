@@ -1,6 +1,0 @@
-package game.inheritance;
-
-public class Magician {
-	private int mDam;
-
-}
