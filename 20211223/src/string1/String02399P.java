@@ -18,6 +18,6 @@ public class String02399P {
 		get = tomato.indexOf("banana");
 		System.out.println(get);
 
-	}
+	} 
 
 }
