@@ -1,6 +1,6 @@
 package ch4;
 
-public class ex4_4 {
+public class Ex4_4 {
 
 	public static void main(String[] args) {
 		int Res = 1;

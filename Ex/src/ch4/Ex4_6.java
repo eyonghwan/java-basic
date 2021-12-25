@@ -2,7 +2,7 @@ package ch4;
 
 import java.util.Scanner;
 
-public class ex4_6 {
+public class Ex4_6 {
 
 	public static void main(String[] args) {
 
